@@ -24,10 +24,10 @@
 ### :fire: My Stats :
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daniloceano&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=daniloceano&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniloceano&theme=dark&layout=compact&langs_count=8&card_width=250&hide=Roff" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniloceano&theme=dark&layout=compact&langs_count=8&card_width=250&hide=Roff" />
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniloceano&theme=dark&background=000000)](https://git.io/streak-stats)
