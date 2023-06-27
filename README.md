@@ -8,10 +8,6 @@
 - 🌀 I’m currently developing a program for analysing the Energy Cycle of cyclones and also data analysis tools
 - 📫 How to reach me: danilo.oceano@gmail.com
 
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/l1J9HtpccPTIYnY1a/giphy.gif" width="100"/>
-</div>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/danilo-couto-de-souza-66375a1aa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
