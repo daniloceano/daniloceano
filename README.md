@@ -22,10 +22,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=daniloceano&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniloceano&theme=dark&layout=compact&langs_count=8&card_width=250&hide=Roff" />
-</a>
-
 <a href="https://git.io/streak-stats">
   <img height=150 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=daniloceano&theme=dark&background=000000" />
 </a>
