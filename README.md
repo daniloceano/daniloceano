@@ -4,8 +4,7 @@
 </h1>
 
 
-- 🔭 I’m a PhD student in Atmospherical Sciences from Brazil
-- 🌀 I’m currently developing a program for analysing the Energy Cycle of cyclones and also data analysis tools
+- 🔭 I’m a Post-Doctoral researcher in Atmospherical Sciences from Brazil
 - 📫 How to reach me: danilo.oceano@gmail.com
 
 <div id="badges">
